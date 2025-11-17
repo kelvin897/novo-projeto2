@@ -1,0 +1,117 @@
+body {
+   margin: 0;
+   padding: 0;
+ }
+
+ header{
+    color: white;
+    background-color: black;
+    height: 300px;
+    padding: 40px 20px;
+ }
+
+ h1.topo {
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    
+}
+
+p > a{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration: none;
+    
+}
+
+p > a:hover {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    
+}
+
+p {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: left;
+    height: 200px;
+}
+
+p.texto-esquerda {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    height: 500px;
+    padding: 20px 20px;
+    background-color: white;
+    font-weight: 50;
+}
+
+p#fundo-01 {
+    color: white;
+    background-image: url(imagens/background001.jpg);
+    height: 800px;
+    font-size: 50px;
+    text-align: left;
+    padding: 20px 20px;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: 50;
+}
+
+b.color {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+
+}
+
+p.p3 {
+    background-color: white;
+    height: 900px;
+    text-align: left;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 20px;
+    font-weight: 50;
+}
+
+p.p4 {
+    color: white;
+    background-image: url(imagens/background002.jpg);
+      height: 800px;
+    font-size: 50px;
+    text-align: left;
+    padding: 20px 20px;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: 50;
+
+}
+
+p.p5 {
+    background-color: white;
+    height: 600px;
+    text-align: left;
+    font-size: 45px; 
+    padding: 20px 20px; 
+    font-weight: 50;  
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
